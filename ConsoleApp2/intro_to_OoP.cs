@@ -36,6 +36,11 @@ namespace intro_to_Oop
             Console.WriteLine(firstCat.Hairball());
             Console.WriteLine(secondCat.Hairball());
 
+
+            //super hero
+            Superhero firstHero = new Superhero();
+
+            firstHero.Health();
         }
     }
 }
